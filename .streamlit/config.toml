@@ -1,0 +1,12 @@
+[server]
+headless = true
+maxUploadSize = 15
+maxMessageSize = 60
+
+[theme]
+base = "light"
+primaryColor = "#174EA6"
+backgroundColor = "#F4F7FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#15233C"
+font = "sans-serif"
